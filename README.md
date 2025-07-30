@@ -1,2 +1,2 @@
 # SQL
-SQL Projects
+SQL project on Climate Trends
