@@ -90,5 +90,6 @@ Rainfall variability and extreme weather events have increased, with significant
 
 ## ✉️ Author & Contact
 
-
-👉 Do you also want me to prepare the **actual SQL query list (CTEs, windows, case examples)** formatted for GitHub so your repo looks more hands-on?
+* Author: Ankita Basu
+* LinkedIn: www.linkedin.com/in/ankita-basu-a7b0b628b
+* Email: ankita16basu@gmail.com
